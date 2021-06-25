@@ -1,0 +1,83 @@
+[8:12 PM, 6/10/2021] Sindhu: VACANCY:
+
+ 
+
+1)-HARDWARE ENGINEER.
+
+2)-HARDWARE AND NETWORKING ENGINEER.
+
+3)-IT HELPDESK ENGINEER.
+
+4)-IT SUPPORT ENGINEER.
+
+5)-DESKTOP SUPPORT ENGINEER.
+
+6)-CUSTOMER SUPPORT ENGINEER.
+
+7)-TECHNICAL SUPPORT ENGINEER.
+
+8)-SYSTEM ADMIN ENGINEER.
+[8:12 PM, 6/10/2021] Sindhu: Cloud pro info solutions..
+SBN Arcade, plot No 6-3-864/4/B, 1st floor, Ameerpet road, oppt to green park hotel. Begumpet, Hyderabad
+
+Timings 10:30 to 1:30PM
+[8:12 PM, 6/10/2021] Sindhu: Job Description :
+
+ 
+
+*Walking interview.
+
+*FRESHER CANDIDATE CAN APPLY.
+
+*Outlook Configuration
+
+*Software installations and troubleshooting of all types of customer oriented field problems, network setting for TCP/IP and Internet setup.
+
+*Trouble shooting of all types of Hardware and software applications problems.
+
+*Configuring & troubleshooting of printer, scanner & LAN related issues reported by users
+
+*Knowledge on DNS, DHCP, Active Directory, WDS
+
+*MS Office
+
+*OS installation and troubleshooting
+
+
+
+
+
+
+
+
+Introduction.
+
+What Is server technology.
+
+Server hardware parts…
+
+What Is RAM and Hard Disk,
+
+ What is BIOS and its function.
+
+How Many types of RAM and Difference.
+
+What is SMPS and its Voltage.
+
+ What is Multimeter,
+
+What is Operating System and Name Few.
+
+What is Ping Command..
+
+What is UPS(Full Form) and its Function
+
+What is IP Address.
+
+Desktop  Hardware parts.
+
+What all are the parts inside the CPU.
+
+What is the RPM value of Hard disk.
+
+OSI Model..
